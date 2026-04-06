@@ -17,7 +17,7 @@
         <div class="nav-actions">
           <!-- GitHub 链接 -->
           <a
-            href="https://github.com/wu529778790/panhub.shenzjd.com"
+            href="https://github.com/wyx8999/panhub-shenzjd-com"
             target="_blank"
             rel="noopener noreferrer"
             class="btn-icon github-btn"
